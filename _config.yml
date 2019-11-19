@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-
 description: JMetrics is a Java tool that measure software maintainability indicators through the Martin's Metric.
 logo: jmetrics.png
 show_downloads: "true"
+repository: "JSMAnalysis/JMetrics"
