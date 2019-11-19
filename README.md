@@ -7,7 +7,7 @@
 * Martinez Eudes
 * Ousseny Irfaane
 
-## Professeur
+## Professeurs
 
 * (Client) : Narbel Philippe
 * (Chargé de TD) : Hofer Ludovic
